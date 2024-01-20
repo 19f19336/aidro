@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364828692430",
+    "project_id": "aidro-fd5e7",
+    "storage_bucket": "aidro-fd5e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364828692430:android:e6cb8ce8e13e3beb10659f",
+        "android_client_info": {
+          "package_name": "com.aidro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnEQyaxZ9fmPZ5aP3gYB_Xfvx6BeUwcbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
